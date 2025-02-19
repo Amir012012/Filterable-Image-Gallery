@@ -97,7 +97,7 @@ button.active {
 @media (max-width: 745px) {
   .card {
     display: flex ;
-    flex-basis: 170px;
+    flex-basis: 160px;
     flex-wrap: wrap;
     justify-content:space-between;
   }
