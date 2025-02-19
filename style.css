@@ -96,7 +96,7 @@ button.active {
 /* مدیا کوئری برای موبایل */
 @media (max-width: 745px) {
   .card {
-    flex-basis: 100px;
+    flex-basis: 145px;
     flex-wrap: wrap;
   }
   .card img {
