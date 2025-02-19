@@ -96,8 +96,10 @@ button.active {
 /* مدیا کوئری برای موبایل */
 @media (max-width: 745px) {
   .card {
+    display: flex ;
     flex-basis: 145px;
     flex-wrap: wrap;
+    justify-content:space-between;
   }
   .card img {
     width: 100%;
