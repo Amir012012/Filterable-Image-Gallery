@@ -99,7 +99,7 @@ button.active {
     display: flex ;
     flex-basis: 150px;
     flex-wrap: wrap;
-    justify-content:space-between;
+    margin:0 0 0 10px
   }
   .card img {
     width: 100%;
